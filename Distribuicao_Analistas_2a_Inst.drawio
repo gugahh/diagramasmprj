@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T18:52:35.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Y44y9aNYweVwYnswYA0I" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T18:56:45.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="QFKQlvyHMNmwDH7RWP4x" version="14.2.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1048" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1048" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,9 +255,6 @@
         </mxCell>
         <mxCell id="O_Yg95A6slMmNf9EX-Gv-58" value="nm_gart (varchar2)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="1">
           <mxGeometry x="540" y="610" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="O_Yg95A6slMmNf9EX-Gv-59" value="fk_funcionario" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="1">
-          <mxGeometry x="540" y="630" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O_Yg95A6slMmNf9EX-Gv-60" value="fk_analista" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="140" y="650" width="230" height="30" as="geometry" />
