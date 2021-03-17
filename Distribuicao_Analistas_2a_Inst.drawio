@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T14:18:48.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="DFa4HAGC9wBnU7-V_uJu" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T14:43:03.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ViLbORr9yAhHcUJQwIzA" version="14.4.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1252" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1252" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -296,25 +296,19 @@
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O_Yg95A6slMmNf9EX-Gv-60" value="fk_analista" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=4;" parent="1" vertex="1">
-          <mxGeometry x="80" y="730" width="220" height="30" as="geometry" />
+          <mxGeometry x="80" y="700" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O_Yg95A6slMmNf9EX-Gv-63" value="é_integrante_gart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="620" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="O_Yg95A6slMmNf9EX-Gv-70" value="fk_carga_analistas" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="1" vertex="1">
+        <mxCell id="O_Yg95A6slMmNf9EX-Gv-75" value="fk_gart" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="1" vertex="1">
           <mxGeometry x="80" y="670" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O_Yg95A6slMmNf9EX-Gv-74" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="1" vertex="1">
+        <mxCell id="O_Yg95A6slMmNf9EX-Gv-76" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="670" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O_Yg95A6slMmNf9EX-Gv-75" value="fk_gart" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="1" vertex="1">
-          <mxGeometry x="80" y="700" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="O_Yg95A6slMmNf9EX-Gv-76" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="700" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="O_Yg95A6slMmNf9EX-Gv-77" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="730" width="30" height="30" as="geometry" />
+          <mxGeometry x="50" y="700" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O_Yg95A6slMmNf9EX-Gv-79" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;entryX=1.003;entryY=-0.12;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="O_Yg95A6slMmNf9EX-Gv-16" target="O_Yg95A6slMmNf9EX-Gv-47" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
